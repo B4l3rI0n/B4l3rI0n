@@ -12,9 +12,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/zyad_elsayed3?logo=twitter\&style=for-the-badge)](https://x.com/zyad_elsayed3)
 [![GitHub followers](https://img.shields.io/github/followers/B4l3rI0n?style=for-the-badge\&logo=github)](https://github.com/B4l3rI0n)
 
-<div onclick="window.open('https://app.hackthebox.com/profile/1862550', '_blank')">
-<img src="https://www.hackthebox.com/badge/image/1862550" alt="HTB Badge" style="width: 200px; border: 2px solid #000; cursor: pointer;">
-</div>
+[![HTB Badge](https://www.hackthebox.com/badge/image/1862550)](https://app.hackthebox.com/profile/1862550)
 
 > “In the code’s silence, I find the flaws. In the system’s chaos, I build control.”
 
