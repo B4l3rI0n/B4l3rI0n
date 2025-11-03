@@ -2,7 +2,9 @@
 
 <div align="center">
 
-![Cyber Banner](https://raw.githubusercontent.com/B4l3rI0n/B4l3rI0n/main/Favicon.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/B4l3rI0n/B4l3rI0n/main/Favicon.jpg" alt="logo" width="400">
+</p>
 
 **Zyad Elsayed Abdelbary**
 **Offensive Security Enthusiast | Pentester | Red Team Mindset**
