@@ -103,7 +103,7 @@ All tools, PoCs, and write-ups in this repo are intended for educational and aut
 ## 🔗 Connect With Me
 
 * 🌐 **Portfolio/Blog:** [b4l3ri0n.github.io](https://b4l3ri0n.github.io/)
-* 🐦 **X/Twitter:** [@B4l3rI0n](https://x.com/B4l3rI0n)
+* 🐦 **X/Twitter:** [@B4l3rI0n](https://x.com/zyad_elsayed3)
 * 💼 **LinkedIn:** [Zyad Elsayed Abdelbary](https://linkedin.com/in/Zyad-Abdelbary)
 
 ---
