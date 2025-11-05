@@ -10,6 +10,7 @@
 
 **Offensive Security Enthusiast | Pentester | Red Team Mindset**
 
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zyad-abdelbary/)
 [![Follow on X](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zyad_elsayed3)
 [![GitHub followers](https://img.shields.io/github/followers/B4l3rI0n?style=for-the-badge\&logo=github)](https://github.com/B4l3rI0n)
 
